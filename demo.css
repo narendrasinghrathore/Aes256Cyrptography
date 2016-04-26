@@ -1,0 +1,40 @@
+﻿body {
+    font-family: Calibri,sans-serif;
+    font-size: 1.5em;
+    background: #136a8a; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #136a8a, #267871); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #136a8a, #267871); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+fieldset {
+    border: 3px solid #dedede;
+    border-radius: 4px;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+legend {
+    color: #333;
+}
+
+.console {
+    font-family: Consolas,Impact;
+    font-size: 20px;
+}
+
+input[type="button"], input[type="text"], .btn {
+    font-family: Calibri,sans-serif;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 2px solid #dedede;
+    margin: 5px auto;
+    padding: 5px;
+}
+.note{
+    background-color:#222;
+    padding:10px;
+    border-radius:4px;
+    color:#fff;
+    font-family:Consolas;
+    font-size:px;
+}
