@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" ClientIDMode="Static" AutoEventWireup="true" CodeBehind="Demo.aspx.cs" Inherits="RT.Web.Api.AesDemo.Demo" %>
+﻿<%@ Page Language="C#" ClientIDMode="Static" AutoEventWireup="true" CodeBehind="Demo.aspx.cs" Inherits="AesDemo.Demo" %>
 
 <!DOCTYPE html>
 
