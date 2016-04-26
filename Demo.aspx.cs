@@ -1,6 +1,6 @@
 ﻿using System;
 using RT.Web.Api.AesDemo;
-namespace RT.Web.Api.AesDemo
+namespace AesDemo
 {
     public partial class Demo : System.Web.UI.Page
     {
