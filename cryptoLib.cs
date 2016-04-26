@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace RT.Web.Api.AesDemo
+namespace EncryptionDecryptionClass
 {
     public enum EncryptionMode
     {
