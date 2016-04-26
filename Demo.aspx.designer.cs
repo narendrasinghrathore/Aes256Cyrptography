@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RT.Web.Api.AesDemo {
+namespace AesDemo {
     
     
     public partial class Demo {
